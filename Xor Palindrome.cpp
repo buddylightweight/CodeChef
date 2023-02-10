@@ -26,7 +26,9 @@ YES
 YES
 YES
 NO
-CDOE****
+// CDOE
+// time complexity O(N)
+// space complexity O(1)
 #include <iostream>
 using namespace std;
 #define ll long long
